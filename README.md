@@ -11,9 +11,4 @@ This is a simple music app.
 <p align="center">
  <img src="main.png" alt="RN WORLD MUSIC  Preview" />
 </p>
-<p align="center">
- <img src="login.png" alt="RN WORLD MUSIC  Preview" />
-</p>
-<p align="center">
- <img src="playlist.png" alt="RN WORLD MUSIC  Preview" />
-</p>
+
