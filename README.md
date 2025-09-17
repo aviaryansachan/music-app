@@ -14,6 +14,6 @@ This is a simple music app.
 
 ## PREVIEW
 <p align="center">
-<img src="login.png" alt="img"/>
+<img src="login.png" alt="RN WORLD MUSIC PREVIEW"/>
 </p>
 
