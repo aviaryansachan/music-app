@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0a192f;
+    padding: 0.8rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    position: sticky;
+    top: 0;
+}
+
+.nav ul {
+    display: flex;
+    gap: 1rem;
+
+}
+
+.nav ul li {
+    list-style: none;
+
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.logo {
+    font-size: x-large;
+    color: #ffffff;
+}
+
+.active {
+    background-color: #00bcd4;
+    padding: 0.2rem;
+    border-radius: 0.5rem;
+}
+
+.name {
+    background-color: brown;
+    position:fixed;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    padding: 0.5rem;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap:nowrap;
+}
+
+.left-box {
+    width: 100%;
+    height:auto;
+    background-color:rgba(0, 0, 0, 0.754);
+    border: 0 solid rgba(0, 0, 0, 0.754);
+    color: #f1f1f1;
+    padding: 1rem;
+    overflow:auto;
+}
+
+.right-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    width: 100%;
+    height:auto;
+    background-color:rgba(10, 25, 47, 0.6);
+    border: 0 solid rgba(10, 25, 47, 0.6);
+    color: #ffffff;
+    padding: 1rem;
+}
+.link{
+    color:#f1f1f1;
+    text-decoration: none;
+    padding:2rem 0;
+    font-weight: bolder;
+    font-size: medium;
+
+}
+.link:hover{
+    color:rgb(31, 31, 205)
+}
+.btn{
+    background-color: #00bcd4;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    margin: 0.4rem;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid #00bcd4;
+    color:white ;
+    font-weight: bold;
+    font-size: medium;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.bg{
+    background-color:rgba(0, 0, 0, 0.754);
+    border: 0 solid rgba(0, 0, 0, 0.754);
+    color: #f1f1f1;
+    width: 100%;
+    height: 100%;
+}
