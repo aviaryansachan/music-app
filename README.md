@@ -9,6 +9,11 @@ This is a simple music app.
 
 ## PREVIEW
 <p align="center">
- <img src="main.png" alt="RN WORLD MUSIC  Preview" />
+ <img src="main.png" alt="RN WORLD MUSIC Preview" />
+</p>
+
+## PREVIEW
+<p align="center">
+<img src="login.png" alt="img"/>
 </p>
 
