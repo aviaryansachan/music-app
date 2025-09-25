@@ -7,13 +7,6 @@ This is a simple music app.
 - REACT
 - REACT ROUTER
 
-## PREVIEW
-<p align="center">
- <img src="main.png" alt="RN WORLD MUSIC Preview" />
-</p>
-
-## PREVIEW
-<p align="center">
-<img src="login.png" alt="RN WORLD MUSIC PREVIEW"/>
-</p>
+## LINK
+- https://rn-world-music.netlify.app/
 
